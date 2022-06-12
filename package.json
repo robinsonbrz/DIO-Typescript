@@ -1,0 +1,30 @@
+{
+    "name": "dio-typescript",
+    "version": "1.0.0",
+    "description": "DIO Typescript",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "lite-server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/robinsonbrz/DIO-Typescript.git"
+    },
+    "keywords": [
+        "typescript",
+        "DIO"
+    ],
+    "author": "Robinson Enedino e Silva",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/robinsonbrz/DIO-Typescript/issues"
+    },
+    "homepage": "https://github.com/robinsonbrz/DIO-Typescript#readme",
+    "devDependencies": {
+        "typescript": "^4.7.3"
+    },
+    "dependencies": {
+        "lite-server": "^2.6.1"
+    }
+}
