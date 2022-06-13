@@ -1,3 +1,4 @@
+/*
 const pessoa = {
     nome: 'Mariana',
     idade: 28,
@@ -68,3 +69,5 @@ function listar(lista: string[]){
 }
 
 listar(monica.materias)
+
+*/
