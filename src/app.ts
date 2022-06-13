@@ -5,3 +5,4 @@ let buttonTeste = document.getElementById('button');
 buttonTeste?.addEventListener('click', () => {
     console.log('funcionou')
 })
+console.log("pasta dist");
