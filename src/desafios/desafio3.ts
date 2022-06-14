@@ -23,9 +23,6 @@ if (botaoAtualizar){
     }
 )};
 
-
-
-
 function somarAoSaldo(soma: number) {
     if (!isNaN(soma) ){
         if(campoSaldo){
@@ -49,9 +46,6 @@ if(botaoLimpar){
 function limparCampoSoma(){
     soma.value = '';
 };
-
-
-
 
 
 
